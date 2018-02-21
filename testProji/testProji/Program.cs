@@ -15,5 +15,9 @@ namespace testProji
         {
             Console.WriteLine("Hello World.How you`re doing?");
         }
+        public static void NewMethod()
+        {
+            Console.WriteLine("Hi bitch");
+        }
     }
 }
