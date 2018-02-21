@@ -11,5 +11,9 @@ namespace testProji
         static void Main(string[] args)
         {
         }
+        public static void Message()
+        {
+            Console.WriteLine("Hello World.How you`re doing?");
+        }
     }
 }
